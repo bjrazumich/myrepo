@@ -1,2 +1,5 @@
 This is my new text file for the Git lab.
 The quick brown fox jumps over the lazy dogs.
+
+Here is more text. Is it tracked?
+This is the third edit after staging my question.
