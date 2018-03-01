@@ -1,0 +1,2 @@
+This is my new text file for the Git lab.
+The quick brown fox jumps over the lazy dogs.
