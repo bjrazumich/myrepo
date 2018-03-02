@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-I have a second line of text
-=======
-This is one line of text
->>>>>>> newbranch2
+I am less conflicted than I was on March 1.
